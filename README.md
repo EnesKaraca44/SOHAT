@@ -1,8 +1,6 @@
 # SOHAT - Sağlık Otomasyonu Hasta Takip Sistemi
 
-SOHAT, genel amaçlı hastaneler ve poliklinikler için tasarlanmış kapsamlı bir masaüstü sağlık bilgi yönetim sistemidir. N-Katmanlı mimari (N-Tier Architecture) kullanılarak C# dili ile geliştirilmiş olup, veritabanı olarak PostgreSQL kullanmaktadır.
-
-> **⚠️ Önemli Not:** Bu yazılım, bir **okul projesi / ödevi** kapsamında eğitim ve öğrenme amacıyla geliştirilmiştir. Ticari bir sistem veya gerçek bir sağlık merkezinde kullanım için oluşturulmamıştır.
+SOHAT (**S**ağlık **O**tomasyonu **H**asta **T**akip **S**istemi), bir **okul projesi (ödevi)** kapsamında geliştirilmiş olup, genel amaçlı hastaneler ve poliklinikler için tasarlanmış kapsamlı bir masaüstü bilgi yönetim sistemidir. N-Katmanlı mimari (N-Tier Architecture) kullanılarak C# (Windows Forms) dili ile geliştirilmiş olup, veritabanı olarak PostgreSQL kullanmaktadır.
 
 ## 🚀 Özellikler
 
